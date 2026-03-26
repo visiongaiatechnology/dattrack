@@ -1,6 +1,6 @@
 # 📊 VGT Dattrack — Sovereign Analytics Engine
 
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-AGPLv3-red?style=for-the-badge)](#)
 [![Version](https://img.shields.io/badge/Version-1.4.0-brightgreen?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-STABLE-brightgreen?style=for-the-badge)](#)
 [![Encryption](https://img.shields.io/badge/Encryption-AES--256--GCM-purple?style=for-the-badge)](#)
