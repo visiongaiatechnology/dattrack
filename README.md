@@ -51,6 +51,10 @@ VGT Command Center Dashboard
 → Live Sync / Echtzeit
 → CSV Export (on-the-fly Entschlüsselung)
 → PDF Analytical Matrix
+
+OptOut Shortcode 
+[vgt_dattrack_optout]
+
 ```
 
 ---
@@ -66,7 +70,7 @@ VGT Command Center Dashboard
 | **O(1) Keyset Pagination** | Kein Performance-Einbruch bei Millionen von Datensätzen |
 | **Temporal Anomaly Detection** | DDoS-Schutz auf Ingestion-Ebene |
 | **Micro-Consent UI** | DSGVO-konformer Consent-Layer mit Blur-Effekt |
-| **Opt-Out Node** | Shortcode-Handler für vollständige Nutzerkontrolle |
+| **Opt-Out Node** | Shortcode-Handler für vollständige Nutzerkontrolle [vgt_dattrack_optout] |
 | **Zero-Knowledge Vault** | Keine unverschlüsselten Rohdaten im Langzeitspeicher |
 | **Auto-Purge** | Automatische Bereinigung nach 7 Tagen |
 | **Live Sync Dashboard** | Echtzeit-Synchronisation im VGT Command Center |
