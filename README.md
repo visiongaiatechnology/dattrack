@@ -12,6 +12,13 @@
 
 ---
 
+## ⚠️ DISCLAIMER: EXPERIMENTAL R&D PROJECT
+
+This project is a **Proof of Concept (PoC)** Wordpress Security Layer. It is **not** a Enterprise Plugin, and can be unsafe.
+
+**Do not use this in critical production environments.** For enterprise-grade kernel-level protection, we recommend established Solutions.
+
+
 ## 🔍 Was ist VGT Dattrack?
 
 VGT Dattrack ist eine **autarke Analytics-Engine** für absolute Datenhoheit. Während herkömmliche Tracking-Lösungen wie Google Analytics oder Matomo Daten an externe Server senden oder auf fremde Infrastruktur angewiesen sind, operiert Dattrack vollständig auf deiner eigenen Infrastruktur — kryptographisch isoliert, DSGVO-konform by Design, ohne eine einzige externe Abhängigkeit.
